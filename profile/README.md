@@ -1,1 +1,34 @@
-## Hi there 👋
+# Remba 🦁
+
+**Building the future of consumer finance in Africa, powered by AI.**
+
+Remba is a Nigerian fintech company on a mission to help everyone understand their money, track spending, and build long-term savings. We build robust, production-ready tools for ourselves and the wider TypeScript ecosystem.
+
+[remba.money](https://remba.money) • [hello@remba.money](mailto:hello@remba.money)
+
+---
+
+### 🛠️ Developer Ecosystem
+
+We've open-sourced the core infrastructure we use to build safe, scalable, and observable financial applications.
+
+- **[Beacon](https://github.com/joinremba/beacon)**: The safety check for your environment. Validate env vars, secrets, and config before your app even starts.
+- **[Catalog](https://github.com/joinremba/catalog)**: Production-ready logging. An event-first logging layer built on Pino with built-in PII redaction.
+- **[Gate](https://github.com/joinremba/gate)**: Your API's defensive line. Request validation, structured responses, idempotency, and rate limiting in one package.
+
+### 🏗️ Our Stack
+
+We love modern, type-safe, and high-performance tools.
+- **Runtime:** [Bun](https://bun.sh)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Backend:** [Hono](https://hono.dev), [PostgreSQL](https://www.postgresql.org/), [Drizzle ORM](https://orm.drizzle.team/)
+- **Frontend:** [Expo](https://expo.dev) / [React Native](https://reactnative.dev)
+- **Infrastructure:** [Redis](https://redis.io), [BullMQ](https://docs.bullmq.io/)
+
+### 🌍 Impact
+
+Based in **Nigeria**, we are focused on solving financial challenges for the African market using cutting-edge AI snapshots and transaction enrichment.
+
+---
+
+*“Helping you build a better relationship with your money.”*
