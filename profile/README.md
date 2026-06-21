@@ -1,4 +1,4 @@
-# Remba 🦁
+# Remba 
 
 **Building the future of consumer finance in Africa, powered by AI.**
 
@@ -15,6 +15,7 @@ We've open-sourced the core infrastructure we use to build safe, scalable, and o
 - **[Beacon](https://github.com/joinremba/beacon)**: The safety check for your environment. Validate env vars, secrets, and config before your app even starts.
 - **[Catalog](https://github.com/joinremba/catalog)**: Production-ready logging. An event-first logging layer built on Pino with built-in PII redaction.
 - **[Gate](https://github.com/joinremba/gate)**: Your API's defensive line. Request validation, structured responses, idempotency, and rate limiting in one package.
+- **[Helm](https://github.com/joinremba/helm)**: AI stack orchestrator for TypeScript — provider failover, circuit breaker, retry, and prompt template management.
 
 ### 🏗️ Our Stack
 
