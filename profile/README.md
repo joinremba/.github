@@ -2,9 +2,13 @@
 
 **Building the future of consumer finance in Africa, powered by AI.**
 
-Remba is a Nigerian fintech company on a mission to help everyone understand their money, track spending, and build long-term savings. We build robust, production-ready tools for ourselves and the wider TypeScript ecosystem.
+Remba is a Nigerian startup on a mission to help everyone understand their money, track spending, build long-term savings, also building AI developer tools to make building AI products faster. We build robust, production-ready tools for ourselves and the wider TypeScript ecosystem.
 
-[remba.money](https://remba.money) • [hello@remba.money](mailto:hello@remba.money)
+
+## Products
+
+- **[brayzen.money](https://brayzen.money)** • [hello@brayzen.money](mailto:hello@brayzen.money)
+- **[Weysabi](https://github.com/weysabi)**
 
 ---
 
